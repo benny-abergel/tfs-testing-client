@@ -1,0 +1,13 @@
+{
+  "name": "tfs-testing-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "promise": "^8.1.0",
+    "request": "^2.88.2"
+  }
+}
